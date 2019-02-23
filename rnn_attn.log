@@ -1,0 +1,93 @@
+[2019-02-23 17:32:48,082]   >> Took 5.03 minutes
+[2019-02-23 17:32:49,955]   >> rnn_attn(
+  (embedding): Embedding(45222, 300)
+  (embedding_dropout): Dropout2d(p=0.1)
+  (lstm): GRU(300, 60, batch_first=True, bidirectional=True)
+  (gru): GRU(120, 60, batch_first=True, bidirectional=True)
+  (lstm_attention): Attention()
+  (gru_attention): Attention()
+  (linear): Linear(in_features=480, out_features=16, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.1)
+  (out): Linear(in_features=16, out_features=1, bias=True)
+)
+[2019-02-23 17:32:49,987]   >> Fold 1
+[2019-02-23 17:33:26,539]   >> Epoch 1/5 	 loss=0.1354 	 val_loss=0.1075 	 threshold=0.2300 	 f1=0.6556 	 time=36.55s
+[2019-02-23 17:34:03,452]   >> Epoch 2/5 	 loss=0.1175 	 val_loss=0.1009 	 threshold=0.3200 	 f1=0.6732 	 time=36.91s
+[2019-02-23 17:34:40,244]   >> Epoch 3/5 	 loss=0.1121 	 val_loss=0.0988 	 threshold=0.3200 	 f1=0.6809 	 time=36.79s
+[2019-02-23 17:35:16,949]   >> Epoch 4/5 	 loss=0.1080 	 val_loss=0.1011 	 threshold=0.2300 	 f1=0.6826 	 time=36.70s
+[2019-02-23 17:35:53,651]   >> Epoch 5/5 	 loss=0.1042 	 val_loss=0.0983 	 threshold=0.3800 	 f1=0.6825 	 time=36.70s
+[2019-02-23 17:35:54,633]   >> rnn_attn(
+  (embedding): Embedding(45222, 300)
+  (embedding_dropout): Dropout2d(p=0.1)
+  (lstm): GRU(300, 60, batch_first=True, bidirectional=True)
+  (gru): GRU(120, 60, batch_first=True, bidirectional=True)
+  (lstm_attention): Attention()
+  (gru_attention): Attention()
+  (linear): Linear(in_features=480, out_features=16, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.1)
+  (out): Linear(in_features=16, out_features=1, bias=True)
+)
+[2019-02-23 17:35:54,641]   >> Fold 2
+[2019-02-23 17:36:31,504]   >> Epoch 1/5 	 loss=0.1357 	 val_loss=0.1079 	 threshold=0.2600 	 f1=0.6531 	 time=36.86s
+[2019-02-23 17:37:08,313]   >> Epoch 2/5 	 loss=0.1178 	 val_loss=0.1019 	 threshold=0.3000 	 f1=0.6704 	 time=36.81s
+[2019-02-23 17:37:45,101]   >> Epoch 3/5 	 loss=0.1123 	 val_loss=0.0996 	 threshold=0.3200 	 f1=0.6796 	 time=36.79s
+[2019-02-23 17:38:21,971]   >> Epoch 4/5 	 loss=0.1079 	 val_loss=0.0991 	 threshold=0.2900 	 f1=0.6811 	 time=36.87s
+[2019-02-23 17:38:58,821]   >> Epoch 5/5 	 loss=0.1043 	 val_loss=0.0989 	 threshold=0.3500 	 f1=0.6829 	 time=36.85s
+[2019-02-23 17:38:59,757]   >> rnn_attn(
+  (embedding): Embedding(45222, 300)
+  (embedding_dropout): Dropout2d(p=0.1)
+  (lstm): GRU(300, 60, batch_first=True, bidirectional=True)
+  (gru): GRU(120, 60, batch_first=True, bidirectional=True)
+  (lstm_attention): Attention()
+  (gru_attention): Attention()
+  (linear): Linear(in_features=480, out_features=16, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.1)
+  (out): Linear(in_features=16, out_features=1, bias=True)
+)
+[2019-02-23 17:38:59,765]   >> Fold 3
+[2019-02-23 17:39:36,526]   >> Epoch 1/5 	 loss=0.1343 	 val_loss=0.1079 	 threshold=0.3000 	 f1=0.6513 	 time=36.76s
+[2019-02-23 17:40:13,295]   >> Epoch 2/5 	 loss=0.1167 	 val_loss=0.1026 	 threshold=0.3200 	 f1=0.6645 	 time=36.77s
+[2019-02-23 17:40:50,091]   >> Epoch 3/5 	 loss=0.1114 	 val_loss=0.1009 	 threshold=0.3400 	 f1=0.6700 	 time=36.80s
+[2019-02-23 17:41:26,974]   >> Epoch 4/5 	 loss=0.1070 	 val_loss=0.1004 	 threshold=0.3900 	 f1=0.6735 	 time=36.88s
+[2019-02-23 17:42:03,599]   >> Epoch 5/5 	 loss=0.1033 	 val_loss=0.0998 	 threshold=0.3400 	 f1=0.6753 	 time=36.63s
+[2019-02-23 17:42:04,564]   >> rnn_attn(
+  (embedding): Embedding(45222, 300)
+  (embedding_dropout): Dropout2d(p=0.1)
+  (lstm): GRU(300, 60, batch_first=True, bidirectional=True)
+  (gru): GRU(120, 60, batch_first=True, bidirectional=True)
+  (lstm_attention): Attention()
+  (gru_attention): Attention()
+  (linear): Linear(in_features=480, out_features=16, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.1)
+  (out): Linear(in_features=16, out_features=1, bias=True)
+)
+[2019-02-23 17:42:04,572]   >> Fold 4
+[2019-02-23 17:42:41,069]   >> Epoch 1/5 	 loss=0.1358 	 val_loss=0.1072 	 threshold=0.3500 	 f1=0.6518 	 time=36.49s
+[2019-02-23 17:43:17,647]   >> Epoch 2/5 	 loss=0.1170 	 val_loss=0.1035 	 threshold=0.4200 	 f1=0.6677 	 time=36.58s
+[2019-02-23 17:43:54,103]   >> Epoch 3/5 	 loss=0.1117 	 val_loss=0.1013 	 threshold=0.2900 	 f1=0.6755 	 time=36.46s
+[2019-02-23 17:44:30,671]   >> Epoch 4/5 	 loss=0.1076 	 val_loss=0.1001 	 threshold=0.3400 	 f1=0.6770 	 time=36.57s
+[2019-02-23 17:45:07,179]   >> Epoch 5/5 	 loss=0.1043 	 val_loss=0.1004 	 threshold=0.3900 	 f1=0.6743 	 time=36.51s
+[2019-02-23 17:45:08,123]   >> rnn_attn(
+  (embedding): Embedding(45222, 300)
+  (embedding_dropout): Dropout2d(p=0.1)
+  (lstm): GRU(300, 60, batch_first=True, bidirectional=True)
+  (gru): GRU(120, 60, batch_first=True, bidirectional=True)
+  (lstm_attention): Attention()
+  (gru_attention): Attention()
+  (linear): Linear(in_features=480, out_features=16, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.1)
+  (out): Linear(in_features=16, out_features=1, bias=True)
+)
+[2019-02-23 17:45:08,131]   >> Fold 5
+[2019-02-23 17:45:44,568]   >> Epoch 1/5 	 loss=0.1344 	 val_loss=0.1060 	 threshold=0.3300 	 f1=0.6540 	 time=36.44s
+[2019-02-23 17:46:21,063]   >> Epoch 2/5 	 loss=0.1170 	 val_loss=0.1020 	 threshold=0.3600 	 f1=0.6721 	 time=36.50s
+[2019-02-23 17:46:57,645]   >> Epoch 3/5 	 loss=0.1117 	 val_loss=0.0992 	 threshold=0.3800 	 f1=0.6795 	 time=36.58s
+[2019-02-23 17:47:34,141]   >> Epoch 4/5 	 loss=0.1073 	 val_loss=0.1024 	 threshold=0.2300 	 f1=0.6766 	 time=36.50s
+[2019-02-23 17:48:10,582]   >> Epoch 5/5 	 loss=0.1039 	 val_loss=0.1004 	 threshold=0.2900 	 f1=0.6803 	 time=36.44s
+
+result threshold: 0.33 result score: 0.6778
