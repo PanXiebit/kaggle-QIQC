@@ -1,0 +1,5 @@
+*.bin
+*.ipynb
+*.pyc
+*.tar.gz
+*.txt

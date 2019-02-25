@@ -1,0 +1,212 @@
+[2018-12-27 17:10:47,936]   >> device: cuda n_gpu: 1, distributed training: False, 16-bits training: False
+[2018-12-27 17:13:09,928]   >> device: cuda n_gpu: 1, distributed training: False, 16-bits training: False
+[2018-12-27 17:13:09,951]   >> LOOKING AT ../../data/splited_data/train.csv
+[2018-12-27 17:13:16,836]   >> ***** Running evaluation *****
+[2018-12-27 17:13:16,836]   >>   Num examples = 11
+[2018-12-27 17:13:16,837]   >>   Batch size = 64
+[2018-12-27 17:13:16,840]   >> ***** Running training *****
+[2018-12-27 17:13:16,841]   >>   Num examples = 11
+[2018-12-27 17:13:16,841]   >>   Batch size = 64
+[2018-12-27 17:13:16,841]   >>   Num steps = 0
+[2018-12-27 17:13:59,503]   >> device: cuda n_gpu: 1, distributed training: False, 16-bits training: False
+[2018-12-27 17:13:59,526]   >> LOOKING AT ../../data/splited_data/train.csv
+[2018-12-27 17:14:05,052]   >> ***** Running evaluation *****
+[2018-12-27 17:14:05,052]   >>   Num examples = 101
+[2018-12-27 17:14:05,053]   >>   Batch size = 64
+[2018-12-27 17:14:05,067]   >> ***** Running training *****
+[2018-12-27 17:14:05,071]   >>   Num examples = 101
+[2018-12-27 17:14:05,072]   >>   Batch size = 64
+[2018-12-27 17:14:05,072]   >>   Num steps = 4
+[2018-12-27 17:14:05,874]   >> epcoh 0, threshold 0.2000, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,876]   >> epcoh 0, threshold 0.2102, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,878]   >> epcoh 0, threshold 0.2203, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,879]   >> epcoh 0, threshold 0.2305, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,881]   >> epcoh 0, threshold 0.2407, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,882]   >> epcoh 0, threshold 0.2508, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,884]   >> epcoh 0, threshold 0.2610, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,885]   >> epcoh 0, threshold 0.2712, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,887]   >> epcoh 0, threshold 0.2814, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,888]   >> epcoh 0, threshold 0.2915, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,890]   >> epcoh 0, threshold 0.3017, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:05,891]   >> epcoh 0, threshold 0.3119, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:06,444]   >> epcoh 0, threshold 0.3220, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,453]   >> epcoh 0, threshold 0.3322, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,459]   >> epcoh 0, threshold 0.3424, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,463]   >> epcoh 0, threshold 0.3525, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,466]   >> epcoh 0, threshold 0.3627, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,469]   >> epcoh 0, threshold 0.3729, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,472]   >> epcoh 0, threshold 0.3831, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,475]   >> epcoh 0, threshold 0.3932, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:06,477]   >> epcoh 0, threshold 0.4034, accuracy 0.0495, precision 0.0404, recall 0.8000, f1 0.0769, best_f1 0.0952
+[2018-12-27 17:14:06,479]   >> epcoh 0, threshold 0.4136, accuracy 0.0495, precision 0.0404, recall 0.8000, f1 0.0769, best_f1 0.0952
+[2018-12-27 17:14:06,481]   >> epcoh 0, threshold 0.4237, accuracy 0.0594, precision 0.0408, recall 0.8000, f1 0.0777, best_f1 0.0952
+[2018-12-27 17:14:06,483]   >> epcoh 0, threshold 0.4339, accuracy 0.0594, precision 0.0408, recall 0.8000, f1 0.0777, best_f1 0.0952
+[2018-12-27 17:14:06,485]   >> epcoh 0, threshold 0.4441, accuracy 0.0693, precision 0.0412, recall 0.8000, f1 0.0784, best_f1 0.0952
+[2018-12-27 17:14:06,487]   >> epcoh 0, threshold 0.4542, accuracy 0.0990, precision 0.0426, recall 0.8000, f1 0.0808, best_f1 0.0952
+[2018-12-27 17:14:06,488]   >> epcoh 0, threshold 0.4644, accuracy 0.2079, precision 0.0482, recall 0.8000, f1 0.0909, best_f1 0.0952
+[2018-12-27 17:14:06,929]   >> epcoh 0, threshold 0.4746, accuracy 0.5842, precision 0.0698, recall 0.6000, f1 0.1250, best_f1 0.1250
+[2018-12-27 17:14:07,295]   >> epcoh 0, threshold 0.4847, accuracy 0.8119, precision 0.1111, recall 0.4000, f1 0.1739, best_f1 0.1739
+[2018-12-27 17:14:07,297]   >> epcoh 0, threshold 0.4949, accuracy 0.8812, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,299]   >> epcoh 0, threshold 0.5051, accuracy 0.9307, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,301]   >> epcoh 0, threshold 0.5153, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,302]   >> epcoh 0, threshold 0.5254, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,304]   >> epcoh 0, threshold 0.5356, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,305]   >> epcoh 0, threshold 0.5458, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,307]   >> epcoh 0, threshold 0.5559, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,309]   >> epcoh 0, threshold 0.5661, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,310]   >> epcoh 0, threshold 0.5763, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,312]   >> epcoh 0, threshold 0.5864, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,314]   >> epcoh 0, threshold 0.5966, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,315]   >> epcoh 0, threshold 0.6068, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,317]   >> epcoh 0, threshold 0.6169, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,319]   >> epcoh 0, threshold 0.6271, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,320]   >> epcoh 0, threshold 0.6373, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,322]   >> epcoh 0, threshold 0.6475, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,323]   >> epcoh 0, threshold 0.6576, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,325]   >> epcoh 0, threshold 0.6678, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,327]   >> epcoh 0, threshold 0.6780, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,328]   >> epcoh 0, threshold 0.6881, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,330]   >> epcoh 0, threshold 0.6983, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,331]   >> epcoh 0, threshold 0.7085, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,333]   >> epcoh 0, threshold 0.7186, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,335]   >> epcoh 0, threshold 0.7288, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,336]   >> epcoh 0, threshold 0.7390, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,338]   >> epcoh 0, threshold 0.7492, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,340]   >> epcoh 0, threshold 0.7593, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,341]   >> epcoh 0, threshold 0.7695, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,343]   >> epcoh 0, threshold 0.7797, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,344]   >> epcoh 0, threshold 0.7898, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,346]   >> epcoh 0, threshold 0.8000, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1739
+[2018-12-27 17:14:07,361]   >> ***** Running training *****
+[2018-12-27 17:14:07,362]   >>   Num examples = 101
+[2018-12-27 17:14:07,362]   >>   Batch size = 64
+[2018-12-27 17:14:07,362]   >>   Num steps = 4
+[2018-12-27 17:14:08,278]   >> epcoh 1, threshold 0.2000, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,282]   >> epcoh 1, threshold 0.2102, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,285]   >> epcoh 1, threshold 0.2203, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,287]   >> epcoh 1, threshold 0.2305, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,290]   >> epcoh 1, threshold 0.2407, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,292]   >> epcoh 1, threshold 0.2508, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,294]   >> epcoh 1, threshold 0.2610, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,296]   >> epcoh 1, threshold 0.2712, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:08,696]   >> epcoh 1, threshold 0.2814, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:08,698]   >> epcoh 1, threshold 0.2915, accuracy 0.0495, precision 0.0404, recall 0.8000, f1 0.0769, best_f1 0.0952
+[2018-12-27 17:14:08,700]   >> epcoh 1, threshold 0.3017, accuracy 0.0594, precision 0.0408, recall 0.8000, f1 0.0777, best_f1 0.0952
+[2018-12-27 17:14:08,701]   >> epcoh 1, threshold 0.3119, accuracy 0.0693, precision 0.0412, recall 0.8000, f1 0.0784, best_f1 0.0952
+[2018-12-27 17:14:08,703]   >> epcoh 1, threshold 0.3220, accuracy 0.0891, precision 0.0421, recall 0.8000, f1 0.0800, best_f1 0.0952
+[2018-12-27 17:14:08,705]   >> epcoh 1, threshold 0.3322, accuracy 0.0990, precision 0.0426, recall 0.8000, f1 0.0808, best_f1 0.0952
+[2018-12-27 17:14:08,706]   >> epcoh 1, threshold 0.3424, accuracy 0.1287, precision 0.0440, recall 0.8000, f1 0.0833, best_f1 0.0952
+[2018-12-27 17:14:08,708]   >> epcoh 1, threshold 0.3525, accuracy 0.1782, precision 0.0465, recall 0.8000, f1 0.0879, best_f1 0.0952
+[2018-12-27 17:14:08,709]   >> epcoh 1, threshold 0.3627, accuracy 0.2475, precision 0.0506, recall 0.8000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:09,211]   >> epcoh 1, threshold 0.3729, accuracy 0.3168, precision 0.0556, recall 0.8000, f1 0.1039, best_f1 0.1039
+[2018-12-27 17:14:09,214]   >> epcoh 1, threshold 0.3831, accuracy 0.3861, precision 0.0476, recall 0.6000, f1 0.0882, best_f1 0.1039
+[2018-12-27 17:14:09,215]   >> epcoh 1, threshold 0.3932, accuracy 0.5941, precision 0.0500, recall 0.4000, f1 0.0889, best_f1 0.1039
+[2018-12-27 17:14:09,217]   >> epcoh 1, threshold 0.4034, accuracy 0.7129, precision 0.0385, recall 0.2000, f1 0.0645, best_f1 0.1039
+[2018-12-27 17:14:09,736]   >> epcoh 1, threshold 0.4136, accuracy 0.8416, precision 0.0769, recall 0.2000, f1 0.1111, best_f1 0.1111
+[2018-12-27 17:14:09,738]   >> epcoh 1, threshold 0.4237, accuracy 0.8812, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,740]   >> epcoh 1, threshold 0.4339, accuracy 0.9406, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,742]   >> epcoh 1, threshold 0.4441, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,743]   >> epcoh 1, threshold 0.4542, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,745]   >> epcoh 1, threshold 0.4644, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,746]   >> epcoh 1, threshold 0.4746, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,748]   >> epcoh 1, threshold 0.4847, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,750]   >> epcoh 1, threshold 0.4949, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,751]   >> epcoh 1, threshold 0.5051, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,753]   >> epcoh 1, threshold 0.5153, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,755]   >> epcoh 1, threshold 0.5254, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,757]   >> epcoh 1, threshold 0.5356, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,758]   >> epcoh 1, threshold 0.5458, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,760]   >> epcoh 1, threshold 0.5559, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,761]   >> epcoh 1, threshold 0.5661, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,763]   >> epcoh 1, threshold 0.5763, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,765]   >> epcoh 1, threshold 0.5864, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,766]   >> epcoh 1, threshold 0.5966, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,768]   >> epcoh 1, threshold 0.6068, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,769]   >> epcoh 1, threshold 0.6169, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,771]   >> epcoh 1, threshold 0.6271, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,773]   >> epcoh 1, threshold 0.6373, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,774]   >> epcoh 1, threshold 0.6475, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,776]   >> epcoh 1, threshold 0.6576, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,777]   >> epcoh 1, threshold 0.6678, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,779]   >> epcoh 1, threshold 0.6780, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,781]   >> epcoh 1, threshold 0.6881, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,782]   >> epcoh 1, threshold 0.6983, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,784]   >> epcoh 1, threshold 0.7085, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,786]   >> epcoh 1, threshold 0.7186, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,787]   >> epcoh 1, threshold 0.7288, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,789]   >> epcoh 1, threshold 0.7390, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,790]   >> epcoh 1, threshold 0.7492, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,792]   >> epcoh 1, threshold 0.7593, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,794]   >> epcoh 1, threshold 0.7695, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,795]   >> epcoh 1, threshold 0.7797, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,797]   >> epcoh 1, threshold 0.7898, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,798]   >> epcoh 1, threshold 0.8000, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.1111
+[2018-12-27 17:14:09,814]   >> ***** Running training *****
+[2018-12-27 17:14:09,814]   >>   Num examples = 101
+[2018-12-27 17:14:09,815]   >>   Batch size = 64
+[2018-12-27 17:14:09,815]   >>   Num steps = 4
+[2018-12-27 17:14:10,642]   >> epcoh 2, threshold 0.2000, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,645]   >> epcoh 2, threshold 0.2102, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,647]   >> epcoh 2, threshold 0.2203, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,649]   >> epcoh 2, threshold 0.2305, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,651]   >> epcoh 2, threshold 0.2407, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,652]   >> epcoh 2, threshold 0.2508, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,654]   >> epcoh 2, threshold 0.2610, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,656]   >> epcoh 2, threshold 0.2712, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,658]   >> epcoh 2, threshold 0.2814, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,660]   >> epcoh 2, threshold 0.2915, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,662]   >> epcoh 2, threshold 0.3017, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,663]   >> epcoh 2, threshold 0.3119, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,665]   >> epcoh 2, threshold 0.3220, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,667]   >> epcoh 2, threshold 0.3322, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,669]   >> epcoh 2, threshold 0.3424, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,671]   >> epcoh 2, threshold 0.3525, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:10,672]   >> epcoh 2, threshold 0.3627, accuracy 0.0495, precision 0.0495, recall 1.0000, f1 0.0943, best_f1 0.0943
+[2018-12-27 17:14:11,142]   >> epcoh 2, threshold 0.3729, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:11,145]   >> epcoh 2, threshold 0.3831, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:11,146]   >> epcoh 2, threshold 0.3932, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:11,148]   >> epcoh 2, threshold 0.4034, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:11,150]   >> epcoh 2, threshold 0.4136, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:11,152]   >> epcoh 2, threshold 0.4237, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:11,154]   >> epcoh 2, threshold 0.4339, accuracy 0.0594, precision 0.0500, recall 1.0000, f1 0.0952, best_f1 0.0952
+[2018-12-27 17:14:11,156]   >> epcoh 2, threshold 0.4441, accuracy 0.0495, precision 0.0404, recall 0.8000, f1 0.0769, best_f1 0.0952
+[2018-12-27 17:14:11,157]   >> epcoh 2, threshold 0.4542, accuracy 0.0495, precision 0.0404, recall 0.8000, f1 0.0769, best_f1 0.0952
+[2018-12-27 17:14:11,159]   >> epcoh 2, threshold 0.4644, accuracy 0.0495, precision 0.0404, recall 0.8000, f1 0.0769, best_f1 0.0952
+[2018-12-27 17:14:11,161]   >> epcoh 2, threshold 0.4746, accuracy 0.0891, precision 0.0421, recall 0.8000, f1 0.0800, best_f1 0.0952
+[2018-12-27 17:14:11,163]   >> epcoh 2, threshold 0.4847, accuracy 0.2079, precision 0.0482, recall 0.8000, f1 0.0909, best_f1 0.0952
+[2018-12-27 17:14:11,661]   >> epcoh 2, threshold 0.4949, accuracy 0.4752, precision 0.0714, recall 0.8000, f1 0.1311, best_f1 0.1311
+[2018-12-27 17:14:12,182]   >> epcoh 2, threshold 0.5051, accuracy 0.7624, precision 0.1200, recall 0.6000, f1 0.2000, best_f1 0.2000
+[2018-12-27 17:14:12,185]   >> epcoh 2, threshold 0.5153, accuracy 0.8515, precision 0.0833, recall 0.2000, f1 0.1176, best_f1 0.2000
+[2018-12-27 17:14:12,187]   >> epcoh 2, threshold 0.5254, accuracy 0.9406, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,188]   >> epcoh 2, threshold 0.5356, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,190]   >> epcoh 2, threshold 0.5458, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,192]   >> epcoh 2, threshold 0.5559, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,194]   >> epcoh 2, threshold 0.5661, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,196]   >> epcoh 2, threshold 0.5763, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,198]   >> epcoh 2, threshold 0.5864, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,199]   >> epcoh 2, threshold 0.5966, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,201]   >> epcoh 2, threshold 0.6068, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,203]   >> epcoh 2, threshold 0.6169, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,205]   >> epcoh 2, threshold 0.6271, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,207]   >> epcoh 2, threshold 0.6373, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,209]   >> epcoh 2, threshold 0.6475, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,210]   >> epcoh 2, threshold 0.6576, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,212]   >> epcoh 2, threshold 0.6678, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,214]   >> epcoh 2, threshold 0.6780, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,216]   >> epcoh 2, threshold 0.6881, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,218]   >> epcoh 2, threshold 0.6983, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,220]   >> epcoh 2, threshold 0.7085, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,222]   >> epcoh 2, threshold 0.7186, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,223]   >> epcoh 2, threshold 0.7288, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,225]   >> epcoh 2, threshold 0.7390, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,227]   >> epcoh 2, threshold 0.7492, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,229]   >> epcoh 2, threshold 0.7593, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,231]   >> epcoh 2, threshold 0.7695, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,233]   >> epcoh 2, threshold 0.7797, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,235]   >> epcoh 2, threshold 0.7898, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:14:12,237]   >> epcoh 2, threshold 0.8000, accuracy 0.9505, precision 0.0000, recall 0.0000, f1 0.0000, best_f1 0.2000
+[2018-12-27 17:15:43,575]   >> device: cuda n_gpu: 1, distributed training: False, 16-bits training: False
+[2018-12-27 17:15:43,598]   >> LOOKING AT ../../data/splited_data/train.csv
+[2018-12-27 17:17:18,650]   >> ***** Running evaluation *****
+[2018-12-27 17:17:18,651]   >>   Num examples = 261225
+[2018-12-27 17:17:18,651]   >>   Batch size = 64
